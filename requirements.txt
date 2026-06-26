@@ -1,0 +1,2 @@
+# Frostbyte has zero runtime dependencies.
+# It needs nothing, much like the room needs no software to stay warm.
