@@ -15,7 +15,7 @@ machine learning, distributed systems, and a fully event-driven architecture
 to reduce the ambient temperature of any room. Outside is 37 degrees? Frostbyte
 has you covered.
 
-**🔗 Live demo:** _add your deployed Lovable/Vercel URL here_
+**🔗 Live demo:** [frostbyte.tylda.solutions](https://frostbyte.tylda.solutions)
 
 ## Why Frostbyte
 
